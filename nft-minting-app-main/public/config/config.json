@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFe0D1447902C67B15b61e671b39D0134396531d5",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Happiness and Satisfaction",
+  "SYMBOL": "HASNFT",
+  "MAX_SUPPLY": 400,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/happiness-and-satisfaction-v2",
+  "SHOW_BACKGROUND": true
+}
