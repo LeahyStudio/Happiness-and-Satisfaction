@@ -1,5 +1,5 @@
 # Welcome to Happiness and Satisfaction NFT
-![](https://github.com/LeahyStudio/Happiness-and-Satisfaction/nft-minting-app/logo-blob.png)
+![](https://github.com/LeahyStudio/Happiness-and-Satisfaction/blob/main/nft-minting-app-main/logo-blob.png)
 
 All the code in these repos was derived from The Stripes NFT
 ![](https://github.com/The-Stripes-NFT/nft-minting-app).
