@@ -1,6 +1,10 @@
-# Welcome to The Stripes NFT 💎
+# Welcome to Happiness and Satisfaction NFT
+![](https://github.com/LeahyStudio/Happiness-and-Satisfaction/nft-minting-app/logo-blob.png)
 
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+All the code in these repos was derived from The Stripes NFT
+![](https://github.com/The-Stripes-NFT/nft-minting-app).
+
+# Welcome to The Stripes NFT 💎
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
